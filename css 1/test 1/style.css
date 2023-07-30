@@ -1,0 +1,31 @@
+body{
+background-image: url(bg.jpg);
+
+}
+.main{
+
+border: solid  1px;
+padding: 40px;
+background-color: rgba(43, 253, 190, 0.616);
+
+}
+
+.head-f{
+color: red;;
+
+}
+.form-head{
+padding: 100px;
+width: 30%;
+margin-top: 10px;
+padding-left: 100px;
+font-size: large;
+color: rgb(0, 0, 0);
+
+}
+.btn{
+
+    background-color:  rgba(43, 253, 190, 0.616);
+    padding: 10px;
+    border-radius: 15px;
+}
